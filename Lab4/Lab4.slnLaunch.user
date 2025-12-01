@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Lab4.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Bai1\\Bai1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Bai2\\Bai2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Bai3\\Bai3.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Lab4_Bai4_VeXemPhim\\Lab4_Bai4_VeXemPhim.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
